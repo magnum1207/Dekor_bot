@@ -128,7 +128,7 @@ def handle_text(message):
 
     if message.text == "📞 Связаться с менеджером":
         inline_markup = types.InlineKeyboardMarkup()
-        btn_chat = types.InlineKeyboardButton("💬 Написать в Telegram", url=f"https://t.me{MANAGER_USERNAME}")
+        btn_chat = types.InlineKeyboardButton("💬 Написать в Telegram", url=f"https://t.me/{MANAGER_USERNAME}")
         inline_markup.add(btn_chat)
         
         bot.send_message(
