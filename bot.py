@@ -15,49 +15,49 @@ CATALOG = {
         "btn_name": "💍 Свадьба — Сватовство",
         "title": "Свадьба — Сватовство",
         "items": [
-            {"photo": "images/wedding/1.jpg", "price": "19 000 руб."},
-            {"photo": "images/wedding/2.jpg", "price": "19 000 руб."},
-            {"photo": "images/wedding/3.jpg", "price": "19 000 руб."},
-            {"photo": "images/wedding/4.jpg", "price": "19 000 руб."},
-            {"photo": "images/wedding/5.jpg", "price": "19 000 руб."},
-            {"photo": "images/wedding/6.jpg", "price": "19 000 руб."},
-            {"photo": "images/wedding/7.jpg", "price": "19 000 руб."},
+            {"photo": "images/wedding/1.JPG", "price": "19 000 руб."},
+            {"photo": "images/wedding/2.JPG", "price": "19 000 руб."},
+            {"photo": "images/wedding/3.JPG", "price": "19 000 руб."},
+            {"photo": "images/wedding/4.JPG", "price": "19 000 руб."},
+            {"photo": "images/wedding/5.JPG", "price": "19 000 руб."},
+            {"photo": "images/wedding/6.JPG", "price": "19 000 руб."},
+            {"photo": "images/wedding/7.JPG", "price": "19 000 руб."},
         ]
     },
     "birthday": {
         "btn_name": "🎂 День рождения",
         "title": "Фотозона на День рождения",
         "items": [
-            {"photo": "images/birthday/1.jpg", "price": "5 000 руб."},
-            {"photo": "images/birthday/2.jpg", "price": "5 000 руб."},
-            {"photo": "images/birthday/3.jpg", "price": "5 000 руб."},
-            {"photo": "images/birthday/4.jpg", "price": "5 000 руб."},
+            {"photo": "images/birthday/1.JPG", "price": "5 000 руб."},
+            {"photo": "images/birthday/2.JPG", "price": "5 000 руб."},
+            {"photo": "images/birthday/3.JPG", "price": "5 000 руб."},
+            {"photo": "images/birthday/4.JPG", "price": "5 000 руб."},
         ]
     },
     "grad_kindergarten": {
         "btn_name": "🧸 Выпускной (дет. сад)",
         "title": "Выпускной (детский сад)",
         "items": [
-            {"photo": "images/grad_kindergarten/1.jpg", "price": "10 000 – 15 000 руб."},
-            {"photo": "images/grad_kindergarten/2.jpg", "price": "10 000 – 15 000 руб."},
-            {"photo": "images/grad_kindergarten/3.jpg", "price": "10 000 – 15 000 руб."},
+            {"photo": "images/grad_kindergarten/1.JPG", "price": "10 000 – 15 000 руб."},
+            {"photo": "images/grad_kindergarten/2.JPG", "price": "10 000 – 15 000 руб."},
+            {"photo": "images/grad_kindergarten/3.JPG", "price": "10 000 – 15 000 руб."},
         ]
     },
     "grad_school": {
         "btn_name": "🎓 Выпускной (школа)",
         "title": "Выпускной (школа)",
         "items": [
-            {"photo": "images/grad_school/1.jpg", "price": "10 000 – 15 000 руб."},
-            {"photo": "images/grad_school/2.jpg", "price": "10 000 – 15 000 руб."},
-            {"photo": "images/grad_school/3.jpg", "price": "10 000 – 15 000 руб."},
+            {"photo": "images/grad_school/1.JPG", "price": "10 000 – 15 000 руб."},
+            {"photo": "images/grad_school/2.JPG", "price": "10 000 – 15 000 руб."},
+            {"photo": "images/grad_school/3.JPG", "price": "10 000 – 15 000 руб."},
         ]
     },
     "baby": {
         "btn_name": "👶 Рождение ребёнка",
         "title": "Фотозона на Рождение ребёнка",
         "items": [
-            {"photo": "images/baby/1.jpg", "price": "5 500 руб."},
-            {"photo": "images/baby/2.jpg", "price": "5 500 руб."},
+            {"photo": "images/baby/1.JPG", "price": "5 500 руб."},
+            {"photo": "images/baby/2.JPG", "price": "5 500 руб."},
         ]
     }
 }
